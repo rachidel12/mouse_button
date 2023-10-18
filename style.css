@@ -1,0 +1,11 @@
+*{
+    text-align: center;
+}
+.container{
+    padding-top: 15%;
+}
+#bouton{
+    background-color: blue;
+    color: white;
+
+}
